@@ -1,0 +1,19 @@
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\cCamara\cCamara\bin\Release\cCamara.exe.manifest
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\cCamara\cCamara\bin\Release\cCamara.application
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\cCamara\cCamara\bin\Release\cCamara.exe
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\cCamara\cCamara\bin\Release\cCamara.pdb
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\cCamara\cCamara\obj\Release\cCamara.exe.manifest
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\cCamara\cCamara\obj\Release\cCamara.application
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\cCamara\cCamara\obj\Release\cCamara.exe
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\cCamara\cCamara\obj\Release\cCamara.pdb
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\cCamara\cCamara\obj\Release\cCamara.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Laptop\Projects 2012\cCamara\cCamara\bin\Release\cCamara.exe.manifest
+C:\Users\Lenovo\Documents\Laptop\Projects 2012\cCamara\cCamara\bin\Release\cCamara.application
+C:\Users\Lenovo\Documents\Laptop\Projects 2012\cCamara\cCamara\bin\Release\cCamara.exe
+C:\Users\Lenovo\Documents\Laptop\Projects 2012\cCamara\cCamara\bin\Release\cCamara.pdb
+C:\Users\Lenovo\Documents\Laptop\Projects 2012\cCamara\cCamara\obj\Release\cCamara.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Laptop\Projects 2012\cCamara\cCamara\obj\Release\cCamara.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Laptop\Projects 2012\cCamara\cCamara\obj\Release\cCamara.exe.manifest
+C:\Users\Lenovo\Documents\Laptop\Projects 2012\cCamara\cCamara\obj\Release\cCamara.application
+C:\Users\Lenovo\Documents\Laptop\Projects 2012\cCamara\cCamara\obj\Release\cCamara.exe
+C:\Users\Lenovo\Documents\Laptop\Projects 2012\cCamara\cCamara\obj\Release\cCamara.pdb

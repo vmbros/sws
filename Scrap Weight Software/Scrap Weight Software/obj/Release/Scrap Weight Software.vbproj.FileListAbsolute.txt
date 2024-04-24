@@ -1,0 +1,24 @@
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\bin\Release\Scrap Weight Software.exe.config
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Interop.SAPbobsCOM.dll
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Interop.SAPbouiCOM.dll
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap Weight Software.vbproj.ResolveComReference.cache
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap Weight Software.vbprojResolveAssemblyReference.cache
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap_Weight_Software.AboutBox1.resources
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap_Weight_Software.frmComPort.resources
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap_Weight_Software.frmVisor.resources
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap_Weight_Software.indicador.resources
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap_Weight_Software.frmParametros.resources
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap_Weight_Software.FrmArticulos.resources
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap_Weight_Software.frmInicio.resources
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap_Weight_Software.frmIndicadores.resources
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap_Weight_Software.frmOCRD.resources
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap_Weight_Software.frmEnvases.resources
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap_Weight_Software.frmPesaje.resources
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap_Weight_Software.frmPrincipal.resources
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap_Weight_Software.frmTicketViewer.resources
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap_Weight_Software.frmTransportistas.resources
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap_Weight_Software.frmChoferes.resources
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap_Weight_Software.frmUsuarios.resources
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap_Weight_Software.Resources.resources
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap_Weight_Software.FrmArticulosI.resources
+C:\Users\pablo\Documents\Visual Studio 2012\Projects\Scrap Weight Software\Scrap Weight Software\obj\Release\Scrap Weight Software.vbproj.GenerateResource.Cache
